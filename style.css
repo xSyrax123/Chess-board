@@ -7,7 +7,6 @@
 
 .container {
   display: flex;
-  flex-wrap: wrap;
   width: 100vw;
   min-height: 12.5vh;
 }
